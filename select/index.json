@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "(L)ONLY",
+  "base_artist": "reGretGirl",
+  "createdAt": "2025-12-02T10:03:07.818339Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "(L)only Child",
+      "artist": "Salem",
+      "has_synced": true,
+      "path": "select/01_(L)only_Child_Salem.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "(L)only Child",
+      "artist": "salem ilese",
+      "has_synced": true,
+      "path": "select/02_(L)only_Child_salem_ilese.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "(L)only",
+      "artist": "reGretGirl",
+      "has_synced": true,
+      "path": "select/03_(L)only_reGretGirl.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "(L)ONLY",
+      "artist": "reGretGirl",
+      "has_synced": false,
+      "path": "select/pl_01_(L)ONLY_reGretGirl.txt"
+    }
+  ]
+}
